@@ -1,0 +1,19 @@
+# Compiled Java classes
+out/
+*.class
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Replit
+.replit
+replit.nix
